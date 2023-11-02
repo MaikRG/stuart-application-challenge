@@ -133,3 +133,4 @@ dist
 
 #Ignore apps node modules
 apps/logging-service/node_modules
+apps/rest-bff/node_modules
